@@ -1,0 +1,26 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    height: 33%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 10px;
+}
+
+@media (min-width: 500px) {
+    .about {
+        height: 30%;
+    }
+}
+
+.about h3 {
+    font-size: 15px;
+    margin-bottom: 6px;
+}
+
+.about p {
+    color: #DCDCDC;
+    font-size: 10px;
+}

@@ -2,7 +2,7 @@
 
 .card {
     background-color: #1A1B21;
-    height: 90%;
+    height: 95%;
     width: 80%;
     border-radius: 15px;
 }
@@ -10,5 +10,6 @@
 @media (min-width: 500px) {
     .card {
         width: 60%;
+        height: 90%;
     }
 }
