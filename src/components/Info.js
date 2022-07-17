@@ -10,11 +10,11 @@ function Info() {
         <h5>Frontend Developer</h5>
         <a href='https://hardik-jhalani.vercel.app/'>hardik.website</a>
         <div className='buttons'>
-            <a className='email'>
+            <a href='#' className='email'>
                 <i class="bi bi-envelope-fill"></i>
                 <p>Email</p>
             </a>
-            <a className='link'>
+            <a href='https://www.linkedin.com/in/hardik-jhalani/' className='link' target='_blank'>
                 <i class="bi bi-linkedin"></i>
                 <p>LinkedIn</p>
             </a>

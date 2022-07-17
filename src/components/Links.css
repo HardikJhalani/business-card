@@ -1,0 +1,15 @@
+.links {
+    height: 8%;
+    background-color: #161619;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.links i {
+    font-size: 23px;
+    color: #918E9B;
+}
